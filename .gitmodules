@@ -1,51 +1,51 @@
 [submodule "third_party/abseil-cpp"]
 	path = third_party/abseil-cpp
-	url = https://kgithub.com/abseil/abseil-cpp.git
+	url = https://github.com.cnpmjs.org/abseil/abseil-cpp.git
 [submodule "third_party/benchmark"]
 	path = third_party/benchmark
-	url = https://kgithub.com/google/benchmark
+	url = https://github.com.cnpmjs.org/google/benchmark
 [submodule "third_party/bloaty"]
 	path = third_party/bloaty
-	url =https://kgithub.com/google/bloaty.git
+	url =https://github.com.cnpmjs.org/google/bloaty.git
 [submodule "third_party/boringssl-with-bazel"]
 	path = third_party/boringssl-with-bazel
-	url = https://kgithub.com/google/boringssl.git
+	url = https://github.com.cnpmjs.org/google/boringssl.git
 [submodule "third_party/cares/cares"]
 	path = third_party/cares/cares
-	url = https://kgithub.com/c-ares/c-ares.git
+	url = https://github.com.cnpmjs.org/c-ares/c-ares.git
 [submodule "third_party/envoy-api"]
 	path = third_party/envoy-api
-	url =ghttps://kgithub.com/envoyproxy/data-plane-api.git
+	url =https://github.com.cnpmjs.org/envoyproxy/data-plane-api.git
 [submodule "third_party/googleapis"]
 	path = third_party/googleapis
-	url = https://kgithub.com/googleapis/googleapis.git
+	url = https://github.com.cnpmjs.org/googleapis/googleapis.git
 [submodule "third_party/googletest"]
 	path = third_party/googletest
-	url = https://kgithub.com/google/googletest.git
+	url = https://github.com.cnpmjs.org/google/googletest.git
 [submodule "third_party/libuv"]
 	path = third_party/libuv
-	url =https://kgithub.com/libuv/libuv.git
+	url =https://github.com.cnpmjs.org/libuv/libuv.git
 [submodule "third_party/opencensus-proto"]
 	path = third_party/opencensus-proto
-	url = https://kgithub.com/census-instrumentation/opencensus-proto.git
+	url = https://github.com.cnpmjs.org/census-instrumentation/opencensus-proto.git
 [submodule "third_party/opentelemetry"]
 	path = third_party/opentelemetry
-	url = https://kgithub.com/open-telemetry/opentelemetry-proto.git
+	url = https://github.com.cnpmjs.org/open-telemetry/opentelemetry-proto.git
 [submodule "third_party/protobuf"]
 	path = third_party/protobuf
-	url = https://kgithub.com/protocolbuffers/protobuf.git
+	url = https://github.com.cnpmjs.org/protocolbuffers/protobuf.git
 [submodule "third_party/protoc-gen-validate"]
 	path = third_party/protoc-gen-validate
-	url = https://kgithub.com/envoyproxy/protoc-gen-validate.git
+	url = https://github.com.cnpmjs.org/envoyproxy/protoc-gen-validate.git
 [submodule "third_party/re2"]
 	path = third_party/re2
-	url = https://kgithub.com/google/re2.git
+	url = https://github.com.cnpmjs.org/google/re2.git
 [submodule "third_party/xds"]
 	path = third_party/xds
-	url =https://kgithub.com/cncf/xds.git
+	url =https://github.com.cnpmjs.org/cncf/xds.git
 [submodule "third_party/zlib"]
 	path = third_party/zlib
-	url = https://kgithub.com/madler/zlib
+	url = https://github.com.cnpmjs.org/madler/zlib
 	# When using CMake to build, the zlib submodule ends up with a
 	# generated file that makes Git consider the submodule dirty. This
 	# state can be ignored for day-to-day development on gRPC.
